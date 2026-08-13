@@ -1,0 +1,475 @@
+[
+  {
+    "sha": "d1f7b34eee7ad5b61c594b2020b642b646423bd2",
+    "node_id": "C_kwDOKlg6kdoAKGQxZjdiMzRlZWU3YWQ1YjYxYzU5NGIyMDIwYjY0MmI2NDY0MjNiZDI",
+    "commit": {
+      "author": {
+        "name": "Doru",
+        "email": "dorminsama@gmail.com",
+        "date": "2026-08-10T14:25:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-10T14:25:01Z"
+      },
+      "message": "pkg(com.xiaomi.bluetooth): khuyên dùng, lưu ý độ trễ công tắc/chuyển đổi",
+      "tree": {
+        "sha": "b1036a28c5dc3fb9dca0951af029ba90606884da",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/b1036a28c5dc3fb9dca0951af029ba90606884da"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/d1f7b34eee7ad5b61c594b2020b642b646423bd2",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqed8+CRC1aQ7uu5UhlAAAItwQAFJkK7LaA7YLRMuVk+t8xn4B\n3VSLDPnFWSg7rP/7hDO8b+mz9IzzCYG2wjA5JtEkKOBj4qi2SaiM1iwNn5s/pnX3\nMuqaBGeFUr61ki3669bNCkIOyRplIA1dh6DJH1xj0RgbmCY+sx+fWX6v9V/4GKE6\n3LcnjwefNsEU4bJLGZCrPUi9/eUuk4jWypogrsDEjw4BtdfgnCEJx0o6PU9AZEhL\nl0Xn9GSInc7fn4xBXJFhf+wRia03cpM49vfafYte8Qnanx6DzD+TkVJl3BUL8XZf\nR1V6aQOkFGLvAqtOkxXfNqKMv3AbTA54GR8JnCJ8ec1Tu/7i0ynsVLiWccmdhPxT\nVtizGSpHni8sqZ9vujQU8QmGosQgHhpgq8mSwZo69HbISyOIIMwkv3xftWKPR41L\nQ6djKnlQRbHJ5nPr4oYAykxZVcHk2Emn0ppUmuPWaQomW3sQUvYAoT0HJxTVo3DK\nRorcr5glhL/koyJLRFg//E0qoVGm1R+n6BkyZTSGX/DX2AZymABQ6SDCB14bcBZf\njiN0j4aysekVSD5fMg7I+gNokYJqegN/If9I0gfGTaDhi42eyPO/Da3ssFvMpd8W\nm4Vhl59IdeFn364yGOoXLwftkxbnYzzuZ9zG4wFAD5Ev00UTiUORSNYnk3jtGcjR\n6O0ccmTqMtXZF0WI8oNd\n=UhqG\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b1036a28c5dc3fb9dca0951af029ba90606884da\nparent 44abeefb71784b4aef035e0d09909d5b9b3da23a\nauthor Doru <dorminsama@gmail.com> 1786371901 -0300\ncommitter GitHub <noreply@github.com> 1786371901 -0300\n\npkg(com.xiaomi.bluetooth): recommended, note switch delay",
+        "verified_at": "2026-08-10T14:28:24Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/d1f7b34eee7ad5b61c594b2020b642b646423bd2",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/d1f7b34eee7ad5b61c594b2020b642b646423bd2",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/d1f7b34eee7ad5b61c594b2020b642b646423bd2/comments",
+    "author": {
+      "login": "Dorumin",
+      "id": 20260297,
+      "node_id": "MDQ6VXNlcjIwMjYwMjk3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20260297?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Dorumin",
+      "html_url": "https://github.com/Dorumin",
+      "followers_url": "https://api.github.com/users/Dorumin/followers",
+      "following_url": "https://api.github.com/users/Dorumin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Dorumin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Dorumin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Dorumin/subscriptions",
+      "organizations_url": "https://api.github.com/users/Dorumin/orgs",
+      "repos_url": "https://api.github.com/users/Dorumin/repos",
+      "events_url": "https://api.github.com/users/Dorumin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Dorumin/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "44abeefb71784b4aef035e0d09909d5b9b3da23a",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/44abeefb71784b4aef035e0d09909d5b9b3da23a",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/44abeefb71784b4aef035e0d09909d5b9b3da23a"
+      }
+    ]
+  },
+  {
+    "sha": "f3df24beb987d9977ae5422d1cfd09b9fa60f4a1",
+    "node_id": "C_kwDOKlg6kdoAKGYzZGYyNGJlYjk4N2Q5OTc3YWU1NDIyZDFjZmQwOWI5ZmE2MGY0YTE",
+    "commit": {
+      "author": {
+        "name": "Jarek",
+        "email": "42780718+jarekt@users.noreply.github.com",
+        "date": "2026-08-05T12:57:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-08-05T12:57:22Z"
+      },
+      "message": "chuyển com.android.networkstack.tethering.inprocess sang không an toàn (unsafe)",
+      "tree": {
+        "sha": "8e7b640e8f696883c17eb362a369f1d96b02b083",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/8e7b640e8f696883c17eb362a369f1d96b02b083"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/f3df24beb987d9977ae5422d1cfd09b9fa60f4a1",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqczMzCRC1aQ7uu5UhlAAA2VMQAGVmRao66MS7fflAi6OH1tz9\nZ3UiQEtCt+AuZauJ3HJqqayJszy9WW+SLNDqWvoOxEAN/MerTrdWvEjFbXgNEop5\n0B+DVzugFMPWV6njDBvWCtVMtAQCVm6Mb13BFZZvPiQXZf3U263IXIHSzQHRuErZ\nkeF4/YBXBAo/0MiMoXZ2c2LzeEM3E7bMo5Pf6Jvckm+UwLtHJcySJULRXFWbFpip\nEKeb98F9iGXKt8rfw/Wji19DKq3P7ZU6GK9tAvAsjWrx9pRylBzVAw6/gdZlZOFu\nPJ22WtHMCVcEfsTQtMfUyzJewAY6DN9KPZa7oVWwktiag+gXK01STfhI7/1RJOWS\n12haZqdcLKYjaKM/RgJplWIkmO4oyvWbxB5xMJN6Rwiv6v+5wxq0xKr4hPRgjSAs\nCG317/8dME+NrLSxTC3RHuOESIAs2sAk4+OOdapMlXShIxUr6IZbqJJX7GVpsRHq\ndESESblXKgbpzeUlNUR+8IZfakpxllLCySwuVwtsAyVkdBgMoxq3kOYt/F7Wa7ip\nTAe37Xe0fOzuAEuOLNSBVkSub/ZNvWMj7amEGace+CrK/jYJoAky49omR6p+CY4f\nYDJ97XT9pCEtwlQ86fnF6HJaBaYfdKjHyfWgPW/TNlT9Eh47bTLWGZsS5sc1V9qX\nsusYn+7iKdPy86qKgv7H\n=vV1q\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8e7b640e8f696883c17eb362a369f1d96b02b083\nparent 2379e852cebd1b46f30ac80f6b77e30396b02df2\nauthor Jarek <42780718+jarekt@users.noreply.github.com> 1785934642 +0200\ncommitter GitHub <noreply@github.com> 1785934642 +0200\n\nchange com.android.networkstack.tethering.inprocess to unsafe",
+        "verified_at": "2026-08-05T13:09:31Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/f3df24beb987d9977ae5422d1cfd09b9fa60f4a1",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/f3df24beb987d9977ae5422d1cfd09b9fa60f4a1",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/f3df24beb987d9977ae5422d1cfd09b9fa60f4a1/comments",
+    "author": {
+      "login": "jarekt",
+      "id": 42780718,
+      "node_id": "MDQ6VXNlcjQyNzgwNzE4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42780718?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jarekt",
+      "html_url": "https://github.com/jarekt",
+      "followers_url": "https://api.github.com/users/jarekt/followers",
+      "following_url": "https://api.github.com/users/jarekt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jarekt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jarekt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jarekt/subscriptions",
+      "organizations_url": "https://api.github.com/users/jarekt/orgs",
+      "repos_url": "https://api.github.com/users/jarekt/repos",
+      "events_url": "https://api.github.com/users/jarekt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jarekt/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2379e852cebd1b46f30ac80f6b77e30396b02df2",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/2379e852cebd1b46f30ac80f6b77e30396b02df2",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/2379e852cebd1b46f30ac80f6b77e30396b02df2"
+      }
+    ]
+  },
+  {
+    "sha": "3c4011807ba29ca2ec1c38987eef0084ec10429e",
+    "node_id": "C_kwDOKlg6kdoAKDNjNDAxMTgwN2JhMjljYTJlYzFjMzg5ODdlZWYwMDg0ZWMxMDQyOWU",
+    "commit": {
+      "author": {
+        "name": "TechyDodoDevMan",
+        "email": "156003199+TechyDodoDevMan@users.noreply.github.com",
+        "date": "2026-07-30T20:12:33Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-07-30T20:12:33Z"
+      },
+      "message": "Thay đổi khuyến nghị gỡ bỏ từ 'Recommended' (Khuyên dùng) sang 'Advanced' (Nâng cao)\n\nĐã giải quyết đề xuất",
+      "tree": {
+        "sha": "abb93f471854378bcd2c3be527ece7db8b38419e",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/abb93f471854378bcd2c3be527ece7db8b38419e"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/3c4011807ba29ca2ec1c38987eef0084ec10429e",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqa7AxCRC1aQ7uu5UhlAAAsUUQAGcs/yYnERchjg8pdBpHtaT0\nLFI9vwrEssXDQVRYeH6Z8yDrlfFZMyanyHqa08YpgQdbaIZ0vALolgC2Hqs0SIAb\nQrqhNm5DCAwDLZW0gPI5vP0GukCosrFrDrISgZusp5304uYNfGZq4V43MjOrem2f\nIoAC51nJ3+40HIugKLK/drCEC6kDu+adyjyenlrwbWunzyuwJvoIJzfMP5aPszSO\n+4qUDd/OmUoossdnGnKw1RZTc4rfofh88XFMZvOAv0D+oHjNXchhTHoyviHrD46E\ns17eb6pnsQATzBpdj/W0h5/5DrrHg/FWSDs/Qi4Ygx+7mYwvdJmtunSpDUapDKm0\nEd0KgPdCrjLsbPGepP10FCeWyYeHC161jUGu3nbDhb3eOY4npt8b5vuuUOIoQXcq\nUWNf7qVfwJG8F765QqhHJoRolZPMDcU8wGRGO0LG4fSZX+6FlJAB5NFpyTjsLxkn\nxpWCgb3rstOH0mGRGs4tk1TIXQwnhPM1tU8hnYkMnSp0eGflxHksNP5wcjagp6ef\nk+41l5L5l7xFbwD3zztlye3zzvlk9VZ02cY56QnTLgGrLB0PTGc8NgXtVTcT5dul\noA2obeP0mhDHnXe1oHjZCu5Jb/fsHyDurF4u8XZH/Tg/KuDC7SLxCmuI9OZhMpkw\nQZxsKYx2lmRc2Ot4qecK\n=5L7b\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree abb93f471854378bcd2c3be527ece7db8b38419e\nparent 9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd\nauthor TechyDodoDevMan <156003199+TechyDodoDevMan@users.noreply.github.com> 1785442353 -0400\ncommitter GitHub <noreply@github.com> 1785442353 -0400\n\nChange removal recommendation from 'Recommended' to 'Advanced'\n\nResolved suggestion",
+        "verified_at": "2026-07-30T20:12:34Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/3c4011807ba29ca2ec1c38987eef0084ec10429e",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/3c4011807ba29ca2ec1c38987eef0084ec10429e",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/3c4011807ba29ca2ec1c38987eef0084ec10429e/comments",
+    "author": {
+      "login": "TechyDodoDevMan",
+      "id": 156003199,
+      "node_id": "U_kgDOCUxrfw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156003199?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TechyDodoDevMan",
+      "html_url": "https://github.com/TechyDodoDevMan",
+      "followers_url": "https://api.github.com/users/TechyDodoDevMan/followers",
+      "following_url": "https://api.github.com/users/TechyDodoDevMan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TechyDodoDevMan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TechyDodoDevMan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TechyDodoDevMan/subscriptions",
+      "organizations_url": "https://api.github.com/users/TechyDodoDevMan/orgs",
+      "repos_url": "https://api.github.com/users/TechyDodoDevMan/repos",
+      "events_url": "https://api.github.com/users/TechyDodoDevMan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TechyDodoDevMan/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd"
+      }
+    ]
+  },
+  {
+    "sha": "9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+    "node_id": "C_kwDOKlg6kdoAKDlkYmRkNTliMGUyYWRjN2E1Y2E3ZGQ2NTBhYzBmY2FjZTgxNDk4ZGQ",
+    "commit": {
+      "author": {
+        "name": "TechyDodoDevMan",
+        "email": "156003199+TechyDodoDevMan@users.noreply.github.com",
+        "date": "2026-07-30T20:10:39Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-07-30T20:10:39Z"
+      },
+      "message": "Hợp nhất nhánh 'main' vào patch-1",
+      "tree": {
+        "sha": "a1fd4c9ba7a4d025fddc703bdb1c9d7eed7b0280",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/a1fd4c9ba7a4d025fddc703bdb1c9d7eed7b0280"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqa6+/CRC1aQ7uu5UhlAAAnKIQAHTNYNNy4uwq3l7HR5wmxZWZ\nKueko2AkWGwRNkBrGIXvW32vCNgA87NdvbLQRIoNdSGLTTJSbzWh9qFXi2FXnOYA\nsz1WyEVEpvPwioA4gIOZA+Y+CKaWtEtanRDMzbHBxTAN7XhQJ2clV36VXKx3UIID\nIPSaycZkklujNaOHAwy1S3qUqMDKQkR2C45NQJQ8v0d306auAI0sxN7NXfUj5XTK\ncF4sMB722nFb85eLs9LsEH6+5muIz1y4ABgsZdun0+uE9r9JXufpv4/vrAAvR7Ux\nwsN8d99N83RnTBXHmoAIoun1AxJPt53GkA+mMplXF6Qky6pHExiTNH2ip/wmFD1G\n0D+nZmuf9oGYZtJAlQmID8BIUb+HCThxUIHDpwOJq+Zo3a2lfSQlDZebxcCSQhVf\newhLPeAhZiQWT9C5XnBiYwwHyHOpnR5UknaHEZYQ0T5WKqHqi9p+Y/vrv3M99InT\nb57FLzLuyx3zyjXRDznnYNO/6MnxckLIyDY/K36QD1aFP38sWXnj7ZB4nFJbyts6\n4HNZ8qjRsikif7gJA2cOOvCrZZfzBX+tfWr5uO8+mr2/ZsRH/E61oUqI/4dBXjc5\nFpbCqS6UcA+4gNPihC3WnpiaCsTXMTRZ+y3JoQxe5T8C5gUgB6BZ+yJJGWP06sxj\naCm8jd/HhbrvkycuzXkm\n=qSOz\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a1fd4c9ba7a4d025fddc703bdb1c9d7eed7b0280\nparent 856606c58b5872106516c465ddff6639e2f7258b\nparent ef94066d650f2169a62b3b4f886b8ddbeb7b360f\nauthor TechyDodoDevMan <156003199+TechyDodoDevMan@users.noreply.github.com> 1785442239 -0400\ncommitter GitHub <noreply@github.com> 1785442239 -0400\n\nMerge branch 'main' into patch-1",
+        "verified_at": "2026-07-30T20:10:40Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/9dbdd59b0e2adc7a5ca7dd650ac0fcace81498dd/comments",
+    "author": {
+      "login": "TechyDodoDevMan",
+      "id": 156003199,
+      "node_id": "U_kgDOCUxrfw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156003199?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TechyDodoDevMan",
+      "html_url": "https://github.com/TechyDodoDevMan",
+      "followers_url": "https://api.github.com/users/TechyDodoDevMan/followers",
+      "following_url": "https://api.github.com/users/TechyDodoDevMan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TechyDodoDevMan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TechyDodoDevMan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TechyDodoDevMan/subscriptions",
+      "organizations_url": "https://api.github.com/users/TechyDodoDevMan/orgs",
+      "repos_url": "https://api.github.com/users/TechyDodoDevMan/repos",
+      "events_url": "https://api.github.com/users/TechyDodoDevMan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TechyDodoDevMan/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "856606c58b5872106516c465ddff6639e2f7258b",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/856606c58b5872106516c465ddff6639e2f7258b",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/856606c58b5872106516c465ddff6639e2f7258b"
+      },
+      {
+        "sha": "ef94066d650f2169a62b3b4f886b8ddbeb7b360f",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/ef94066d650f2169a62b3b4f886b8ddbeb7b360f",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/ef94066d650f2169a62b3b4f886b8ddbeb7b360f"
+      }
+    ]
+  },
+  {
+    "sha": "266f1b9597f99e266ad8660bdd5886c49f7911c4",
+    "node_id": "C_kwDOKlg6kdoAKDI2NmYxYjk1OTdmOTllMjY2YWQ4NjYwYmRkNTg4NmM0OWY3OTExYzQ",
+    "commit": {
+      "author": {
+        "name": "insanebecauseimbestwheniminlove",
+        "email": "insane@flinkpost.de",
+        "date": "2026-07-25T01:53:55Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-07-25T01:53:55Z"
+      },
+      "message": "Cập nhật uad_lists.json",
+      "tree": {
+        "sha": "00d415d481f6c2052f41f92da71e848fc365d963",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/00d415d481f6c2052f41f92da71e848fc365d963"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/266f1b9597f99e266ad8660bdd5886c49f7911c4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqZBczCRC1aQ7uu5UhlAAAPOgQAJ8ZoeqaJSHAm7Ijv3QLXl0n\nH1q712+jv9UjuA7FpNiZc0D0VbsbHQrJeL1LPnuLJHKVFDov5NBOIgBe8IOAsfLJ\nWB9UDqoNiH9O6FoeZkn90fkbw+bVv03wCvfagNQVblCs595r9e7UhJKJTjmznGds\nd77chn48sZ0jIEzQUa9b7XwvY0njOQbCMm3NfV1FC5cinr+0aTFY48moUAguNC3W\nQvxNfLkCQ0YdozP0VmDJd68ykj0x8uPsr22NimpTQO3zptooCe2H1No2IOhsiqx/\nNev6OWeuFXs9YxBEWO6csUS/6XYkix1qOtYnJLsDrM2Yyg5rwxTVbOrMggakIzli\nqkR2BuzSXRCcWjgC2fbQLEB5z7yjwXgyhc0R4yrX9aab7JaKVvk5Jh5XGi7vhbMF\nf7840rAvn+MkrgSlzORMXdTTdpYmnlQtxmJwMnGV6+6I4eoM0viEehCVo8QjcrVw\nJkaoBMYeGKDIHJDUQiyIPSmluGbFUNZvZLnd1QGL3nIl1zkS0m8hEy5PMxlXS4mz\nOX2FBOiKlcBCh8vIsfOM9+TADl0UUDAamrLyo9i6i8bTyoWBH4l/o9GzeXcCXWFB\npD1IJLYsMKee5ZktW42sGLyEaDKdP91K4tBStYe59LIec0XhiNhayYJjB6POBrwa\nPxKCBiQa7e5PJ1syVd+h\n=9Yi9\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 00d415d481f6c2052f41f92da71e848fc365d963\nparent 9336f25e7d5476e0824720ee44dce23bc7640c3f\nauthor insanebecauseimbestwheniminlove <insane@flinkpost.de> 1784944435 +0200\ncommitter GitHub <noreply@github.com> 1784944435 +0200\n\nUpdate uad_lists.json",
+        "verified_at": "2026-07-25T01:53:56Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/266f1b9597f99e266ad8660bdd5886c49f7911c4",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/266f1b9597f99e266ad8660bdd5886c49f7911c4",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/266f1b9597f99e266ad8660bdd5886c49f7911c4/comments",
+    "author": {
+      "login": "insanebecauseimbestwheniminlove",
+      "id": 306828045,
+      "node_id": "U_kgDOEknTDQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306828045?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/insanebecauseimbestwheniminlove",
+      "html_url": "https://github.com/insanebecauseimbestwheniminlove",
+      "followers_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/followers",
+      "following_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/following{/other_user}",
+      "gists_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/subscriptions",
+      "organizations_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/orgs",
+      "repos_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/repos",
+      "events_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/insanebecauseimbestwheniminlove/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9336f25e7d5476e0824720ee44dce23bc7640c3f",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/9336f25e7d5476e0824720ee44dce23bc7640c3f",
+        "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/9336f25e7d5476e0824720ee44dce23bc7640c3f"
+      }
+    ]
+  },
+  {
+    "sha": "856606c58b5872106516c465ddff6639e2f7258b",
+    "node_id": "C_kwDOKlg6kdoAKDg1NjYwNmM1OGI1ODcyMTA2NTE2YzQ2NWRkZmY2NjM5ZTJmNzI1OGI",
+    "commit": {
+      "author": {
+        "name": "TechyDodoDevMan",
+        "email": "156003199+TechyDodoDevMan@users.noreply.github.com",
+        "date": "2026-07-24T16:05:16Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-07-24T16:05:16Z"
+      },
+      "message": "Cập nhật uad_lists.json\n\nĐã thêm Fitbit Connected Fitness",
+      "tree": {
+        "sha": "b47667737abc8d9243e3e27b0336cd616e57e2b8",
+        "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/trees/b47667737abc8d9243e3e27b0336cd616e57e2b8"
+      },
+      "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/git/commits/856606c58b5872106516c465ddff6639e2f7258b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "hợp lệ",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqY409CRC1aQ7uu5UhlAAAVV0QAI7CnrrfZs/MipyP77TQtnPK\nbx5Ht4uUmdpY5QO5lDSd4FLOi3fbi36QkiEGOI9attiBwHXIUkpSf5YBbNnW8y69\nR4leTzU1i5MBk5K1xx0PMZwO2i2CFM3i/ulIpgVA45Q8mwME3BZkXA+eBYTsZ7ql\ndutBnUs8vzs9ucUXSvIh76psK1xHONvvaJuji+lGvIWX4DBtQkh7RENK3txdleMm\nqgEQIFLc0XcGa0zkHw/MJnnWqj6+fdUZfvQoTFq+yKkaqGQ9HCLXGGN/kNcXfr8L\nakhzHFoGDNc2VUYO1F8B2uE+XtJtOGMTeaPeMJe4Gs+xuRxVYhpqZATtdNUFyY59\ncRBfQYTYnwyzXOJebpcw5tlypXWLxz33SqY1Hg8tORQqfkKkYZ04DolwK77QLpQh\nODEyPBfdT6VvSOi8eRVoKCtRwgdIdqgZda16WmE//DF2oNoKdFdm9sAh4MIyfNNH\nghnAlRyAXiDasozeEEJbEN6f8YgF2LT2WY//yV2Q7ks+XFQHt4bQXiDmcOsdzEtN\n1fpc6rm3hmonSoLk0gUczsSjZcpeI27NC9h6Xn/EFSLG4e1emtTNtERfuK5okx4e\nRCMUloTQh/nO64gQmqH3xRgD7idnTquPsfmP13iZnTY2PJzr0zH8Hhm2DUh88CUk\n2TuH71baT5NytHoURal8\n=Wu7K\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b47667737abc8d9243e3e27b0336cd616e57e2b8\nparent 9336f25e7d5476e0824720ee44dce23bc7640c3f\nauthor TechyDodoDevMan <156003199+TechyDodoDevMan@users.noreply.github.com> 1784909116 -0400\ncommitter GitHub <noreply@github.com> 1784909116 -0400\n\nUpdate uad_lists.json\n\nAdded Fitbit Connected Fitness",
+        "verified_at": "2026-07-24T16:05:18Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/856606c58b5872106516c465ddff6639e2f7258b",
+    "html_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commit/856606c58b5872106516c465ddff6639e2f7258b",
+    "comments_url": "https://api.github.com/repos/Universal-Debloater-Alliance/universal-android-debloater-next-generation/commits/856606c58b5872106516c465ddff6639e2f7258b/comments",
+    "author": {
+      "login": "TechyDodoDevMan",
+      "id": 156003199,
+      "node_id": "U_kgDOCUxrfw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156003199?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TechyDodoDevMan",
+      "html_url": "https://github.com/TechyDodoDevMan",
+      "followers_url": "https://api.github.com/users/TechyDodoDevMan/followers",
+      "following_url": "https://api.github.com/users/TechyDodoDevMan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/TechyDodoDevMan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/TechyDodoDevMan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/TechyDodoDevMan/subscriptions",
+      "organizations_url": "https://api.github.com/users/TechyDodoDevMan/orgs",
+      "repos_url": "https://api.github.com/users/TechyDodoDevMan/repos",
+      "events_url": "https://api.github.com/users/TechyDodoDevMan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/TechyDodoDevMan/received_events",
+      "type": "Người dùng",
+      "user_view_type": "công khai",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 1
+    }
+  }
+]
